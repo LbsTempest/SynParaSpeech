@@ -1,0 +1,37 @@
+[
+  {
+    "audio": "assets/event_detection_audio/1.wav",
+    "model_a_base": "No paralinguistic events detected",
+    "model_a_sft": "[laugh] at 00:01-00:03",
+    "model_b_base": "Unknown sound at 00:00-00:04",
+    "model_b_sft": "[laugh] at 00:01-00:03"
+  },
+  {
+    "audio": "assets/event_detection_audio/1.wav",
+    "model_a_base": "No paralinguistic events detected",
+    "model_a_sft": "[laugh] at 00:01-00:03",
+    "model_b_base": "Unknown sound at 00:00-00:04",
+    "model_b_sft": "[laugh] at 00:01-00:03"
+  },
+  {
+    "audio": "assets/event_detection_audio/1.wav",
+    "model_a_base": "No paralinguistic events detected",
+    "model_a_sft": "[laugh] at 00:01-00:03",
+    "model_b_base": "Unknown sound at 00:00-00:04",
+    "model_b_sft": "[laugh] at 00:01-00:03"
+  },
+  {
+    "audio": "assets/event_detection_audio/1.wav",
+    "model_a_base": "No paralinguistic events detected",
+    "model_a_sft": "[laugh] at 00:01-00:03",
+    "model_b_base": "Unknown sound at 00:00-00:04",
+    "model_b_sft": "[laugh] at 00:01-00:03"
+  },
+  {
+    "audio": "assets/event_detection_audio/1.wav",
+    "model_a_base": "No paralinguistic events detected",
+    "model_a_sft": "[laugh] at 00:01-00:03",
+    "model_b_base": "Unknown sound at 00:00-00:04",
+    "model_b_sft": "[laugh] at 00:01-00:03"
+  }
+]
